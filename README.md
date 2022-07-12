@@ -3,7 +3,7 @@
 
 # Project Title
 
-This project is for deeplearning exercise with C++
+This project is for Deep Learning exercise with C++
 
 ## Acknowledgements
 
