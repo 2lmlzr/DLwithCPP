@@ -1,10 +1,11 @@
 # DLwithCPP
 
+
 # Project Title
 
-A brief description of what this project does and who it's for
-
+This project is for deeplearning exercise with C++
 
 ## Acknowledgements
 
- - This is for deeplearning with C++
+ - Network will be implemented only by C++
+
